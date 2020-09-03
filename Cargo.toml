@@ -1,0 +1,9 @@
+[package]
+name = "run-when-changed"
+version = "0.1.0"
+authors = ["Jonas Obrist <ojiidotch@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+notify = "4.0.15"
+clap = "3.0.0-beta.1"
